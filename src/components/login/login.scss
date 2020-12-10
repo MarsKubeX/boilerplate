@@ -1,0 +1,29 @@
+.login {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.login-form {
+  max-width: 200px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(21, 10, 173);
+  padding: 50px;
+}
+
+.login-username {
+  display: flex;
+  padding: 10px;
+}
+
+.login-password {
+  display: flex;
+  padding: 10px;
+}
+
+.login-submit {
+  margin: 20px;
+}
